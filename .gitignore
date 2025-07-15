@@ -1,0 +1,35 @@
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Site configuration backup
+_site.old/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.orig
+
+# Logs
+*.log
+
+# Bundler / Ruby
+.bundle/
+vendor/
+
+# Dependencies
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode or other editor settings
+.vscode/
+.idea/
+
+# Environment files
+.env
