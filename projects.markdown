@@ -24,10 +24,9 @@ Application that analyses your portfolio and proposes a similar one (in terms of
 
 ## ✅ Closed Projects
 
-### **GNAGNA**
-ccucuc.  
-<!-- 🔗 [GitHub Repository](https://github.com/yourusername/market-crash-analyzer) -->
+### **Optimal evolutionary paths in protein sequence**
+Before switching to finance, I worked as a PhD student in Statistical Physics at the Ecole Normale Superieure in Paris. My main project was focused on utilizing simple neural networks to infere the fitness landscape of a protein family (in simple terms, a function that measures whether a given protein sequence is active or not) and apply it to find optimal mutational paths between distant proteins.
 
-### **sasasa**
-asdf  
-<!-- 🔗 [GitHub Repository](https://github.com/yourusername/stochastic-asset-simulator) -->
+🔗 [Main paper published on Physical Review Letters](https://doi.org/10.1103/PhysRevLett.130.158402)
+
+🔗 [Follow-Up paper published on Physical Review E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.024141)
