@@ -27,6 +27,9 @@ node_modules/
 .DS_Store
 Thumbs.db
 
+#gem lock file
+Gemfile.lock
+
 # VSCode or other editor settings
 .vscode/
 .idea/
