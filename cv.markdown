@@ -65,7 +65,7 @@ Final grade: 110/110 summa cum laude
   E. Mauri, S. Cocco, R. Monasson  
   Physical Review E, [doi:10.1103/PhysRevE.108.024141](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.024141)
 
-- **Dec 2025**
+- **Dec 2025**  
   *Design and experimental characterization of specificity-switching mutational paths of WW domains*
   A. Rehan, E. Mauri,  J. Fernandez-de-Cossio-Diaz,  P.-G. Brun,  R. Monasson,  M. Ribezzi-Crivellari,  S. Cocco
   bioRxiv, [doi.org/10.64898/2025.12.08.693000](https://doi.org/10.64898/2025.12.08.693000)
