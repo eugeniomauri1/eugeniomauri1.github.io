@@ -31,6 +31,7 @@ Support for undergraduate students in General Mathematics (Economics) and Physic
 **PhD in Physics**, 2020–2023  
 *Research project supervised by Rémi Monasson and Simona Cocco (LPENS):  
 “Predicting Evolution in Multi-Fitness Landscapes: Theory and Data-Driven Models”*
+[Link to the full thesis](assets/pdfs/main.pdf)
 
 **École Normale Supérieure Paris**  
 **ICFP Master (M1+M2) in Theoretical Physics**, 2018–2020  
